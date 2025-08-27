@@ -1,6 +1,6 @@
 # Task3-Weather-Checker
+🌤️ Weather Checker App
 🌍 A simple and responsive Weather Checker app using HTML, CSS, JavaScript, and OpenWeather API.
-🌤️ Task 3 - Weather Checker App
 
 This project is part of my Web Development Internship at ApexPlanet Software Pvt. Ltd.
 
@@ -35,7 +35,7 @@ OpenWeather API → Real-time weather data source
 
 Clone or download this repository.
 
-Open the index.html file in your browser.
+Open the TASK3.html file in your browser.
 
 Enter a city name or allow location access to check the weather.
 
