@@ -2,7 +2,7 @@
 🌤️ Weather Checker App
 🌍 A simple and responsive Weather Checker app using HTML, CSS, JavaScript, and OpenWeather API.
 
-This project is part of my Web Development Internship at ApexPlanet Software Pvt. Ltd.
+This project is part of my Web Development Internship .
 
 It is a responsive and interactive Weather Checker Web App built using HTML, CSS, and JavaScript with real-time weather data powered by the OpenWeather API.
 The app provides accurate weather details based on user input or current location, along with dynamic visuals for a modern experience.
